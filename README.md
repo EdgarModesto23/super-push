@@ -27,5 +27,6 @@ Then you can use the script like this:
 ```bash
 
 superpush <repository> <branch> <commit message>
+superpush --help
 
 ```
